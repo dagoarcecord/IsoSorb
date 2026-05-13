@@ -64,7 +64,7 @@ This modular design facilitates scalability, reproducibility, and future impleme
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/IsoSorb.git
+git clone https://github.com/dagoarcecord/IsoSorb.git  
 ```
 
 ## Enter the project directory
@@ -122,22 +122,10 @@ IsoSorb can be applied to:
 * Surface interaction analysis
 * Environmental remediation research
 
-# Screenshots
-Add screenshots of:
-
-* Main graphical interface
-* Isotherm fitting results
-* Residual analysis plots
-* Statistical comparison tables
-* Automatic interpretation output
-
----
 
 # Citation
 If you use IsoSorb in your research, please cite:
-Arce-Córdova D., Gutiérrez Segura E., Gutiérrez Hernández R.F., et al.
-IsoSorb: A Python-based tool for nonlinear adsorption isotherm modeling and multi-criteria model selection.
-SoftwareX, 2026.
+Arce-Córdova, D., Gutiérrez Segura, E., Gutiérrez Hernández, R. F., Moreno Marcelino, J. E., Valle Mora, J. F., Maldonado, J. L., Ulloa Gutierrez, D. A., Rodiles-Cruz, N. C., & Hidalgo-López, R. (2026). IsoSorb: A Python-based tool for nonlinear adsorption isotherm modeling and multi-criteria model selection (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20150901
 ```
 
 # License

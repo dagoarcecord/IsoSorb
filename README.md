@@ -92,7 +92,7 @@ Required libraries:
 # Running the Software
 Execute the main file:
 ```bash
-python main.py
+IsoSorb.py
 ```
 
 

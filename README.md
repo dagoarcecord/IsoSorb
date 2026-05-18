@@ -64,7 +64,13 @@ This modular design facilitates scalability, reproducibility, and future impleme
 ## Clone the repository
 
 ```bash
-git clone https://github.com/dagoarcecord/IsoSorb.git  
+git clone https://github.com/dagoarcecord/IsoSorb.git
+
+Important Note
+
+Please download the complete repository, including all image files and graphical resources required for proper software execution.
+
+Running the software without the included images may cause graphical interface elements not to display correctly.
 ```
 
 ## Enter the project directory

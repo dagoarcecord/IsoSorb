@@ -125,7 +125,7 @@ IsoSorb can be applied to:
 
 # Citation
 If you use IsoSorb in your research, please cite:
-Arce-Córdova, D., Gutiérrez Segura, E., Gutiérrez Hernández, R. F., Moreno Marcelino, J. E., Valle Mora, J. F., Maldonado, J. L., Ulloa Gutierrez, D. A., Rodiles-Cruz, N. C., & Hidalgo-López, R. (2026). IsoSorb: A Python-based tool for nonlinear adsorption isotherm modeling and multi-criteria model selection (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20150901
+Arce-Córdova, D., Gutiérrez Segura, E., Gutiérrez Hernández, R. F., Moreno Marcelino, J. E., Valle Mora, J. F., Maldonado, J. L., Ulloa Gutierrez, D. A., Rodiles-Cruz, N. C., & Hidalgo-López, R. (2026). IsoSorb: A Python-based tool for nonlinear adsorption isotherm modeling and multi-criteria model selection (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20274649
 ```
 
 # License
